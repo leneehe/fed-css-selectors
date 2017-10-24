@@ -45,12 +45,15 @@ header {
   text-align: right;
 }
 
-#advanced-selectors li p{
+#advanced-selectors ol li{
   padding: 20px;
   background-color: grey;
 }
 
-/*#advanced-selectors li:nth-child(odd) {
+#advanced-selectors ul li{
+  background-color: white;
+}
+
+#advanced-selectors ol>li:nth-child(odd) {
   background-color: green;
 }
-*/
