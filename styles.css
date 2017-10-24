@@ -45,7 +45,12 @@ header {
   text-align: right;
 }
 
-.exercises#advanced-selectors ol  {
+#advanced-selectors li p{
   padding: 20px;
   background-color: grey;
 }
+
+/*#advanced-selectors li:nth-child(odd) {
+  background-color: green;
+}
+*/
