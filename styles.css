@@ -22,3 +22,7 @@ header {
 .class-list {
   list-style-type: square;
 }
+
+.item {
+  border: 3px double gold;
+}
