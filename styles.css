@@ -15,7 +15,7 @@ h2 {
 }
 
 header {
-  border-bottom: 4px dotted black;
+  border-bottom: thick dotted black;
 }
 
 /*class selectors*/
@@ -51,6 +51,7 @@ header {
 }
 
 #advanced-selectors ul li{
+  padding: 0;
   background-color: white;
 }
 
