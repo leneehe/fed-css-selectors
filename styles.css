@@ -12,3 +12,7 @@ h1 {
 h2 {
   font-family: Georgia, Times, ‘Times New Roman’, serif;
 }
+
+header {
+  border-bottom: 4px dotted black;
+}
