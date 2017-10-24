@@ -4,3 +4,11 @@
 html {
   font-size: 14px;
 }
+
+h1 {
+  font-family: Palatino, ‘Palatino Linotype’, ‘Hoefler Text’, Times, ‘Times New Roman’, serif;
+}
+
+h2 {
+  font-family: Georgia, Times, ‘Times New Roman’, serif;
+}
