@@ -26,3 +26,12 @@ header {
 .item {
   border: 3px double gold;
 }
+
+.even {
+  background-color: grey;
+}
+
+.odd {
+  background-color: black;
+  color: white;
+}
