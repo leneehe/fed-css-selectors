@@ -44,3 +44,8 @@ header {
 #item2 {
   text-align: right;
 }
+
+.exercises#advanced-selectors ol  {
+  padding: 20px;
+  background-color: grey;
+}
