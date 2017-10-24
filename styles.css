@@ -1,6 +1,7 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
 
+/*tag selectors*/
 html {
   font-size: 14px;
 }
@@ -15,4 +16,9 @@ h2 {
 
 header {
   border-bottom: 4px dotted black;
+}
+
+/*class selectors*/
+.class-list {
+  list-style-type: square;
 }
